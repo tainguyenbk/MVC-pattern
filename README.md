@@ -43,7 +43,7 @@ Có 3 thành phần chính:
 - Phù hợp với công ty chuyên về website, dự án lớn
 - Khó triển khai
 
-## Reference: [Tìm hiểu mô hình MVC là gì? Ví dụ về cách sử dụng mô hình MVC](https://vietnix.vn/tim-hieu-mo-hinh-mvc-la-gi/)
+## Reference: [Vietnix.vn - Tìm hiểu mô hình MVC là gì? Ví dụ về cách sử dụng mô hình MVC](https://vietnix.vn/tim-hieu-mo-hinh-mvc-la-gi/)
 
 
 
